@@ -1,7 +1,7 @@
-baseURL = "http://47.93.243.93/"
+﻿baseURL = "http://47.93.243.93/"
 languageCode = "zh-cn"
-title = "测试PaperMod"
-theme = "PaperMod"
+title = "我的博客"
+theme = "hugo-PaperMod-master"
 
 [params]
   defaultTheme = "auto"
@@ -9,5 +9,3 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
-
-theme = "ananke"
