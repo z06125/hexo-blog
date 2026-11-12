@@ -1,6 +1,6 @@
 baseURL = "http://47.93.243.93/"
 languageCode = "zh-cn"
-title = "我的博客"
+title = "测试PaperMod"
 theme = "PaperMod"
 
 [params]
